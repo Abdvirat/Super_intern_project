@@ -1,0 +1,9 @@
+.first{
+    color:white;
+}
+.dropdown-menu{
+    background-color:#343a40 !important;
+}
+#elephant{
+    display:flex;
+}
